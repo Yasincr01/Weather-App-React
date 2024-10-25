@@ -1,0 +1,24 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: "Acme", sans-serif;
+}
+
+.home {
+    background-image: url('https://static.vecteezy.com/system/resources/previews/007/143/829/large_2x/abstract-blur-blue-sky-and-clouds-in-the-morning-natural-background-free-photo.jpg');
+    background-size: cover;
+    overflow-x: hidden;
+}
+
+.card {
+    background-image: url('https://cdn.dribbble.com/users/481070/screenshots/1846435/cloud.gif');
+    background-size: cover;
+}
+
+.temp {
+    font-size: 80px;
+    font-weight: 600;
+    color: burlywood;
+    text-shadow: 2px 5px 5px black;
+}
